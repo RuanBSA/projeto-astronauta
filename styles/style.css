@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    height: 100vh;
+    
+}
+
+#espaco {
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-image: url("/Desafio11/imagens/espaco.jpg");
+    
+}
+
+.astronauta {
+    background-image: url("/Desafio11/imagens/astronauta.png");
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
